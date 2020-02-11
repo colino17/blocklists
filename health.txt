@@ -39,7 +39,8 @@
 ||uclahealth.org^
 ||rarediseases.info.nih.gov^
 ||cancertherapyadvisor.com^
-
+||drugs.com^
+||everydayhealth.com^
 
 !
 ! Wildcard Domains
@@ -55,3 +56,6 @@
 !
 
 /cancer/
+/adrenal/
+/cervical/
+/medlineplus/
