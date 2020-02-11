@@ -33,12 +33,12 @@
 ||healthlinkbc.ca^
 ||who.int^
 ||cancercenter.com^
-||
-||
-||
-||
-||
-||
+||urologyhealth.org^
+||rogelcancercenter.org^
+||endocrineweb.com^
+||uclahealth.org^
+||rarediseases.info.nih.gov^
+||cancertherapyadvisor.com^
 
 
 !
