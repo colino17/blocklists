@@ -53,3 +53,5 @@
 !
 ! Keyword Blocking
 !
+
+/cancer/
