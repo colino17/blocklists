@@ -41,6 +41,7 @@
 ||cancertherapyadvisor.com^
 ||drugs.com^
 ||everydayhealth.com^
+||*cancer*^
 
 !
 ! Wildcard Domains
