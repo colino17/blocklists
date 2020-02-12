@@ -56,7 +56,7 @@
 ! Keyword Blocking
 !
 
-/cancer/*
-/adrenal/*
+*/cancer/*
+*/adrenal/*
 /cervical/*
 /medlineplus/*
