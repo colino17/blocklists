@@ -45,6 +45,11 @@
 ||cancer.ca^
 ||cancer.org^
 ||cancer.gov^
+||oncologynurseadvisor.com^
+||shape.com^
+||healthline.com^
+||shiningsoul1.blogspot.com^
+||radiologyinfo.org^
 
 !
 ! Wildcard Domains
